@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseeave",
+        "uuid": 5797850,
+        "checksum": "zmndmd"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
